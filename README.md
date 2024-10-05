@@ -15,3 +15,15 @@ This repository contains a Bash script designed to automate the process of downl
 **Variant Calling:** Calls variants from the mapped reads using FreeBayes.
 
 **MultiQC Reporting:** Aggregates results from various analyses into a single report.
+
+# Prerequisites
+
+Before running the script, ensure that you have the following tools installed:
+
+wget
+fastqc
+fastp
+bwa
+samtools
+freebayes
+multiqc
