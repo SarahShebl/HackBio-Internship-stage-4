@@ -1,3 +1,4 @@
+Author: " Mahmoud Hassanen(@Mahmoud203) , Sarah Shebl (@Sarah50)
 # HackBio-internship-stage-4
 
 This repository contains a Bash script designed to automate the process of downloading sequencing data, performing quality control, trimming, genome mapping, and variant calling for multiple datasets. The script utilizes various bioinformatics tools, including FastQC, FastP, BWA, Samtools, and FreeBayes.
@@ -66,3 +67,9 @@ MultiQC is executed to generate an aggregated report of all analysis results.
 
 **Sample Processing Loop**
 The script includes a loop that processes multiple datasets specified in an array. Each sample undergoes the same steps as outlined above.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/fb0f0fb9-f9b7-4c0e-99c0-05dacab396ad)
