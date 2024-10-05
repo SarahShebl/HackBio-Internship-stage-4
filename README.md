@@ -2,7 +2,7 @@
 
 This repository contains a Bash script designed to automate the process of downloading sequencing data, performing quality control, trimming, genome mapping, and variant calling for multiple datasets. The script utilizes various bioinformatics tools, including FastQC, FastP, BWA, Samtools, and FreeBayes.
 
-**Contents**
+# Contents
 
 **Data Download:** Downloads forward and reverse sequence files along with a reference genome.
 
